@@ -1,4 +1,4 @@
-# Criando-seu-jogo-de-memória-estilo-Genius-Digital-Innovation-One
+# Criando seu jogo de memória estilo Genius Digital Innovation One
 
 <div align="center">
   <img  src="https://user-images.githubusercontent.com/79542325/156683659-f2c46e40-dc04-4540-b289-7e8024c62a72.PNG" >
@@ -17,7 +17,8 @@
   - Arrow Functions
 </div>
 
-- Projeto Desenvolvido
+ - Projeto Desenvolvido
+ codepen.io/brian-saka/pen/goxeezp
 <br>
-  <img src="https://user-images.githubusercontent.com/79542325/156687104-eeda9c07-7c80-4334-bb63-e2878d36a76b.PNG" >
+  <img src="https://user-images.githubusercontent.com/79542325/156687104-eeda9c07-7c80-4334-bb63-e2878d36a76b.PNG" href="codepen.io/brian-saka/pen/goxeezp">
 
